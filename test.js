@@ -10,4 +10,4 @@ class Clase {
 const instancia = new Clase('Hugo');
 //console.log(instancia);
 console.log(instancia.nombre);
-console.log(instancia.calculo(26));
+console.log(instancia.calculo(15));
