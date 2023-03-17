@@ -31,5 +31,5 @@ let res = await axios(config)
 console.log(res.status); 
 } 
  
-makeRequest(); 
+makeRequest();   
 
